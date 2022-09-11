@@ -1,7 +1,7 @@
-function Header() {
+function School() {
     return (
-        <div>Header here</div>
+        <div>School here</div>
     )
 }
 
-export default Header;
+export default School;

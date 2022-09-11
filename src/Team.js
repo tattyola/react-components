@@ -1,7 +1,7 @@
-function Header() {
+function Team() {
     return (
-        <div>Header here</div>
+        <div>Team here</div>
     )
 }
 
-export default Header;
+export default Team;

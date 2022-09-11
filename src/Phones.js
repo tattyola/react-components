@@ -1,7 +1,13 @@
-function Header() {
+function Phones() {
     return (
-        <div>Header here</div>
+        <ul>
+            <li>111 222 1234</li>
+            <li>222 222 1234</li>
+            <li>333 222 1234</li>
+            <li>444 222 1234</li>
+            <li>555 222 1234</li>
+        </ul>
     )
 }
 
-export default Header;
+export default Phones;

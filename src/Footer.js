@@ -1,7 +1,14 @@
-function Header() {
+import Phones from "./Phones";
+
+function Footer() {
     return (
-        <div>Header here</div>
+        <div>
+            Footer here
+            <Phones/>
+            <Phones/>
+            <Phones/>
+        </div>
     )
 }
 
-export default Header;
+export default Footer;
